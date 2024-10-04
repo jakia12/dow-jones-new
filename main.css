@@ -2321,7 +2321,7 @@ textarea.w-select {
 .button.hero {
   height: auto;
   box-shadow: none;
-  background-color: #eea47f;
+  background-color: #fdf750;
   background-image: none;
   margin-right: 20px;
   padding: 15px;
@@ -2338,19 +2338,19 @@ textarea.w-select {
 }
 
 .button.hero.buy:hover {
-  background-color: #eea47f;
+  background-color: #fdf750;
 }
 
 .button.hero.buynew {
-  background-color: #eea47f;
+  background-color: #fdf750;
 }
 
 .button.hero.gal {
-  background-color: #eea47f;
+  background-color: #fdf750;
 }
 
 .button.header {
-  background-color: #eea47f;
+  background-color: #fdf750;
   margin: 30px 183px 30px 30px;
   padding: 15px 40px;
   font-size: 35px;
@@ -3581,7 +3581,7 @@ textarea.w-select {
 .button.hero {
   height: auto;
   box-shadow: none;
-  background-color: #eea47f;
+  background-color: #fdf750;
   background-image: none;
   margin-right: 20px;
   /* padding: 15px; */
@@ -3591,7 +3591,7 @@ textarea.w-select {
 .button.hero {
   height: auto;
   box-shadow: none;
-  background-color: #eea47f;
+  background-color: #fdf750;
   background-image: none;
   margin-right: 20px;
   /* padding: 15px; */
@@ -3603,7 +3603,7 @@ textarea.w-select {
   text-align: center;
   letter-spacing: 9px;
   -webkit-text-stroke-width: 3px;
-  -webkit-text-stroke-color: #c91b21;
+  -webkit-text-stroke-color: #c48b06;
   text-shadow: -4px 3px 4px #0c285e;
   font-family: Pokemon Solid, sans-serif;
   position: static;
@@ -3703,7 +3703,7 @@ color: #fff;
   text-align: center;
   letter-spacing: 9px;
   -webkit-text-stroke-width: 3px;
-  -webkit-text-stroke-color: #c91b21;
+  -webkit-text-stroke-color: #c48b06;
   text-shadow: -4px 3px 4px #0c285e;
   font-family: Pokemon Solid, sans-serif;
   position: static;
@@ -3711,7 +3711,7 @@ color: #fff;
 }
 
 .div-block-19 {
-  background-image: url("/images/vid.gif");
+  background-image: url("/images/new-img.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -3725,7 +3725,7 @@ color: #fff;
   text-align: center;
   letter-spacing: 9px;
   -webkit-text-stroke-width: 3px;
-  -webkit-text-stroke-color: #c91b21;
+  -webkit-text-stroke-color: #c48b06;
   text-shadow: -4px 3px 4px #0c285e;
   font-family: Pokemon Solid, sans-serif;
   position: static;
